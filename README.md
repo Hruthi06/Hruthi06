@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=200&section=header&text=Hi 👋, I'm Hruthik K R&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">Hi 👋, I'm Hruthik K R</h1>
 
 <p align="center">
@@ -75,11 +75,22 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:hruthikhruthikkr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hruthik-k-r-a32450294"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Hruthi06"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+  <a href="mailto:hruthikhruthikkr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/hruthik-k-r-a32450294">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Hruthi06">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
+  <a href="https://instagram.com/hruthi.06">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## ⚡ Fun Fact
