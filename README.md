@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=200&section=header&text=Hruthik%20K%20R&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=200&section=header&text=Hi 👋, I'm Hruthik K R&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 <h1 align="center">Hi 👋, I'm Hruthik K R</h1>
 
 <p align="center">
