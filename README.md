@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hruthik K R</h1>
-<h3 align="center">🚀 Java Backend Developer | Spring Boot | Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+MySQL;Building+Real+World+Projects;Always+Learning+New+Things🚀" />
+</p>
+
+<h3 align="center">🚀 Full Stack Developer | Java Backend Specialist</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 BCA Student (Final Year)
-- 💻 Passionate about Backend Development & System Design
-- 🔥 Currently building **Social Media Application (Spring Boot + MySQL)**
-- ☁️ Basic knowledge in AWS (EC2, S3, IAM)
-- 📈 Always learning & improving
+- 🎓 BCA Final Year Student  
+- 💻 Passionate about Full Stack Development  
+- 🔥 Building **Social Media Application (Spring Boot + MySQL)**  
+- ☁️ Basic AWS Knowledge (EC2, S3, IAM)  
+- 📈 Focused on becoming a Software Engineer  
 
 ---
 
@@ -33,26 +38,21 @@
 
 ---
 
-## 📂 Projects
-
-### 🚍 Real-Time Bus Tracking App
-- Built using REST APIs
-- Tracks live bus location
-- Backend-focused architecture
-
-### 🧠 Quiz Application
-- Dynamic quiz system
-- Random questions & scoring logic
-
-### 🛒 E-commerce Website
-- Simple store UI
-- Product listing & basic functionality
+## 🚀 Featured Projects
 
 ### 📱 Social Media App (Ongoing 🚧)
-- Spring Boot + MySQL
-- JWT Authentication
-- User roles (Admin/User)
-- Posts, Likes, Feed system
+- Spring Boot + MySQL + JWT  
+- User Authentication & Authorization  
+- Posts, Likes, Feed System  
+- Admin Controls  
+
+### 🚍 Real-Time Bus Tracking App
+- REST APIs + Backend Logic  
+- Live location tracking  
+
+### 🧠 Quiz Application
+- Dynamic questions  
+- Score tracking system  
 
 ---
 
@@ -67,11 +67,13 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: hruthikhruthikkr@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/hruthik-k-r-a32450294  
-- 💻 GitHub: https://github.com/Hruthi06  
+<p align="center">
+  <a href="mailto:hruthikhruthikkr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hruthik-k-r-a32450294"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Hruthi06"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-> I don't just write code — I build systems 🚀
+> I don't just write code — I build scalable systems 🚀
